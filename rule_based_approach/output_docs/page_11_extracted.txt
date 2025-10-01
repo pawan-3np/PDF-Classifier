@@ -1,0 +1,65 @@
+form w-2 wage & tax statement 2022 
+copy c-for employee's records. 
+this information is being furnished to the internal revenue service. if you are required to file a tax return, a negligence penalty or other 
+sanction may be imposed on you if this income is taxable and you fall to report it. 
+department of the treasury - internal revenue service 
+a employee's social security number 
+123-45-67891
+c em player's name, address, and zjp code 
+xyz medical inc 841 
+prudential dr 
+ste 204 
+jacksonville, fl 32207 
+b employer identification number (ein) 
+usa 
+22·111111 
+e employee's name, address, and zip code 
+john homeowner
+123 , test drive , 
+bessemer , al 35023
+15 state1iàe(s state io no. 
+al 
+r009080141 
+116 stale wages, bps, etc. 
+23957.23 
+1 wages, tips, other compensation 
+23957.23 
+3 social security wages 
+25255.80 
+5 medicare wages and tips 
+25255.80 
+7 social security tips 
+0.00 
+9 
+11 nonquallfied plans 
+0.00 
+12 see instructions for box 12 
+d 
+1298. 57 
+dd 
+5066. 73 
+117 stale income truc 
+819.40 
+118 local wages, bps. etc. 
+0mb no. 1545-0008 
+2 federal income tax withheld 
+0.00 
+4 social security tax withheld 
+1565.86 
+6 medicare tax withheld 
+366.21 
+8 allocated tips 
+0.00 
+10 dependent care benefits 
+99.94 
+13 statutory 
+retirement third-party 
+employee 
+plan 
+sick pay 
+d 
+l!i 
+d 
+14 other 
+119 local income truc 
+120 locally name
